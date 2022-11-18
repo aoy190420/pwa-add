@@ -1,0 +1,11 @@
+{
+  "short_name": "Analytics",
+  "display": "minimal-ui",
+  "start_url": "https://analytics.google.com",
+  "icons": [
+  {
+    "src": "./app-icon.jpeg",
+    "sizes": "512x512",
+    "type": "image/jpeg"
+  }
+}
