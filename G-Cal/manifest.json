@@ -2,7 +2,7 @@
   "lang": "ja-JP",
   "name": "Googleカレンダー",
   "short_name": "カレンダー",
-  "start_url": "https://calendar.google.com",
+  "start_url": " https://calendar.google.com",
   "background_color": "#fff",
   "theme_color": "#fff",
   "orientation": "any",
@@ -13,5 +13,8 @@
       "sizes": "512x512"
     }
   ],
-  "dir": "ltr"
+  "dir": "ltr",
+  "categories": [
+    "business"
+  ]
 }
