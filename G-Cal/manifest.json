@@ -1,10 +1,17 @@
 {
-  "manifest_version": 3
-  "name": "カレンダー"
-  "version": "1.0.0"
-  "description": "実際には，起動しません。",
-  icons": [{
-  "512x512": "./g-i.png"
-}],
-  "display": "fullscreen"
+  "lang": "ja-JP",
+  "name": "Googleカレンダー",
+  "short_name": "カレンダー",
+  "start_url": "https://calendar.google.com",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./g-i.png",
+      "sizes": "512x512"
+    }
+  ],
+  "dir": "ltr"
 }
